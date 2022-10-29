@@ -1,7 +1,4 @@
-# SQL_cyber_salary_project
-SQL project analysing the wages of cybersecurity professionals from different approaches 
-
-# 💰💰 SQL project analysing the wages of cybersecurity professionals from different approaches
+# 💰 SQL project analysing the wages of cybersecurity professionals from different approaches
 
 ## To implement this project we use the 'InfoSec/Cyber Security Salaries Classification' Dataset from Kaggle, here you can explore it [Kaggle-Dataset](https://www.kaggle.com/datasets/whenamancodes/infoseccyber-security-salaries)
 
