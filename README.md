@@ -32,11 +32,6 @@ USE cibersecurity_salary;
 SELECT * FROM cyber_salaries;
 ```
 
-
-## Here you can check the Tableau Dashboards developed for this project: 
-
-
-
 ### We can now begin our analysis by answering the questions above.
 
 ### 1- Does experience play a role in the recruitment of remote work profiles?.
