@@ -139,7 +139,7 @@ LIMIT 5;
 
 ### 5- In our last question we want to analize the JR positions ('EN'/ entrey level) by company size in 2022. 
 ### I'm currently seeking a Jr position job in Data Analyst / BI so I thought it was interesting to analize that by company size. 
-### 'If you know some opportunity I'm grateful to hear about it 😉, now, go on with the analysis!.
+### 'If you know some opportunity I'm grateful to hear about it 😉', now, go on with the analysis!.
 
 ```sql
 SELECT
