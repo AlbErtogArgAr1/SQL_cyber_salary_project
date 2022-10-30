@@ -55,7 +55,7 @@ SELECT
 #### Through this analysis we conclude that senior and executive levels have a high volume of remote work versus the entry and middle levels, which are more balanced.
 #### Throught Tableau we go deeper in our analysis and extract the AVG Remote Ratio by each experience level (you can check it on the tableau dashboard).
 
-### 2- How does the size of the company impact on wages?.
+### 2- How does company size impact wages?.
 
 ### S = small (-50 employees), M = medium (50 - 250 employees), L = large (+250 employees)
 
