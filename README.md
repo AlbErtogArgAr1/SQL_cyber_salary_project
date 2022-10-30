@@ -29,7 +29,7 @@ USE cibersecurity_salary;
 ### Realize an overview of the Dataset.
 
 ```sql
-SELECT * FROM cyber_salaries;
+SELECT * FROM cyber_salaries; 
 ```
 
 ### We can now begin our analysis by answering the questions above.
