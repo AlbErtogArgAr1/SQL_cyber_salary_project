@@ -53,7 +53,7 @@ SELECT
 ![Captura 1 pregunta](https://user-images.githubusercontent.com/116805861/198847022-813f9c81-08d7-468d-bf1e-622b5c68b9a5.PNG)
 
 #### Through this analysis we conclude that senior and executive levels have a high volume of remote work versus the entry and middle levels, which are more balanced.
-#### Throught Tableau we go deeper in our analysis and extract the AVG Remote Ratio by each experience level (you can check it on the tableau dashboard).
+#### Throught Tableau we go deeper in our analysis and extract the AVG Remote Ratio by each experience level (you can check it in the tableau dashboard).
 
 ### 2- How does company size impact wages?.
 
@@ -89,7 +89,7 @@ LIMIT 5;
 
 
 #### United States, England, Canada, Denmark and France are top 5 in remote work field.
-#### On the Tableau analysis you will see the AVG Remote Ratio of these locations. 
+#### In the Tableau analysis you will see the AVG Remote Ratio of these locations. 
 
 ```sql
 SELECT 
@@ -135,7 +135,7 @@ LIMIT 5;
 ![Captura 4 pregunta 2](https://user-images.githubusercontent.com/116805861/198883529-58114522-606b-4ca3-b544-a8dda1f09959.PNG)
 
 #### Opposite these are the 5 lowest-paid positions: 1 Network Security Engineer, 2 Data Security Analyst 3 Cloud Security Engineering Manager, 4 Threat Hunting Lead, 5 Information Security Compliance Analyst.
-#### You can explore all positions on the Tableau Dashboard.
+#### You can explore all positions in the Tableau Dashboard.
 
 ### 5- In our last question we want to analize the JR positions ('EN'/ entrey level) by company size in 2022. 
 ### I'm currently seeking a Jr position job in Data Analyst / BI so I thought it was interesting to analize that by company size. 
@@ -154,7 +154,7 @@ ORDER BY jr_positions DESC;
 ![Captura 5 pregunta](https://user-images.githubusercontent.com/116805861/198883774-0f8c563b-2e75-4377-aa18-886190987a87.PNG)
 
 #### As we expect, Large companies have more Jr opportunities, about x5 against Small ones (50 compared to 12). 
-#### You can check all experience levels by company size on Tableau.
+#### You can check all experience levels by company size in Tableau.
 
 
 ## Here you can check 🧐 the Tableau Dashboards developed for this project: [Tableau-Project](https://public.tableau.com/app/profile/albertogarciagarcia/viz/SQLCyber_Salary_Project/OverallAnalysis).
