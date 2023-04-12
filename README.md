@@ -2,7 +2,7 @@
 
 ## To implement this project we use the 'InfoSec/Cyber Security Salaries Classification' Dataset from Kaggle, here you can explore it [Kaggle-Dataset](https://www.kaggle.com/datasets/whenamancodes/infoseccyber-security-salaries).
 
-## The first stage has been the analysis 🧐 of the dataset and after that the following questions came to mind:
+## The first stage has been the analysis 🧐 of the dataset, and after that, the following questions came to mind:
 
 ### 1- Does experience play a role in the recruitment of remote work profiles?.
 ### 2- How does the size of the company impact on wages?.
